@@ -2,7 +2,7 @@
 Whole exome sequencing variant analysis pipeline.
 
 ##
-This process begins with fully processed sample variant files stored in an SQL database that can be parsed and analyzed.  All SQL scripts contain code to create a SQL procedure with the code in the script.  Having the procedures in the database helps with documentation and creates easy repeatability.
+This process begins with fully processed sample variant files stored in an SQL database that can be parsed and analyzed.  All SQL scripts contain code to create a SQL procedure with the code in the script.  Having the procedures in the database helps with documentation and creates easy repeatability. Please contact us for the raw files. 
 
 ### Pipeline
 1. **Load the sample data** into a SQL database.
