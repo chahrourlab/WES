@@ -1,7 +1,6 @@
 # WES
 Whole exome sequencing variant analysis pipeline used to analyze the data pblished in the following manuscript- 
-Gogate A, Kaur K, Goodspeed K, Evans P, Morris MA, Chahrour MH, The genetic landscape of autism spectrum disorder in an ancestrally diverse cohort, npj Genomic Medicine (2024)
-Accepted- In press
+Gogate A, Kaur K, Goodspeed K, Evans P, Morris MA, Chahrour MH. The genetic landscape of autism spectrum disorder in an ancestrally diverse cohort. npj Genomic Medicine (2024) (Accepted- In press)
 
 
 
