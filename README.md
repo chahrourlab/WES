@@ -1,5 +1,9 @@
 # WES
-Whole exome sequencing variant analysis pipeline.
+Whole exome sequencing variant analysis pipeline used to analyze the data pblished in the following manuscript- 
+Gogate A, Kaur K, Goodspeed K, Evans P, Morris MA, Chahrour MH, The genetic landscape of autism spectrum disorder in an ancestrally diverse cohort, npj Genomic Medicine (2024)
+Accepted- In press
+
+
 
 ##
 This process begins with fully processed sample variant files stored in an SQL database that can be parsed and analyzed.  All SQL scripts contain code to create a SQL procedure with the code in the script.  Having the procedures in the database helps with documentation and creates easy repeatability. Please contact us for the raw files. 
